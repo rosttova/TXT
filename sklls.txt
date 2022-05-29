@@ -1,0 +1,5 @@
+Командная строка Linux - создание файлов, копирование, перемещение, работа с GitHub
+Основы SQL - Create, Delete, Drop, Insert Into, Select, From, Where, Join
+Мобильное тестирование - Android studio, XCode
+Тестирование API - ostman, автотесты
+Клиент-серверная архитектура - JSON, SOAP, методы запросов на сервер, их структура
